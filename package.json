@@ -1,0 +1,27 @@
+{
+  "name": "psw-gen",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "copy-to-clipboard": "^3.3.1",
+    "rc-slider": "^10.0.0-alpha.6",
+    "react": "^17.0.2",
+    "react-compound-slider": "^3.3.1",
+    "react-dom": "^17.0.2",
+    "react-slider": "^2.0.0"
+  },
+  "devDependencies": {
+    "@iconify/react": "^3.2.1",
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.9.0"
+  }
+}
